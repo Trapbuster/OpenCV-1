@@ -1,0 +1,3 @@
+[submodule "webcamwork"]
+	path = webcamwork
+	url = https://github.com/Trapbuster/OpenCV-1.git
